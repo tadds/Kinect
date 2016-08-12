@@ -1,0 +1,116 @@
+Initialize engine version: 5.3.3f1 (910d71450a97)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     912 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\tadgm_000\Desktop\k\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\tadgm_000\Desktop\k\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\tadgm_000\Desktop\k\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\tadgm_000\Desktop\k\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\tadgm_000\Desktop\k\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\tadgm_000\Desktop\k\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\tadgm_000\Desktop\k\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\tadgm_000\Desktop\k\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.063 seconds
+Platform assembly: C:\Users\tadgm_000\Desktop\k\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\tadgm_000\Desktop\k\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.629754 ms
+System.Exception: OpenNI2 directory not found. Please check the OpenNI installation.
+  at KinectWrapper.CheckOpenNIPresence () [0x00000] in <filename unknown>:0 
+  at KinectManager.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+System.DllNotFoundException: UnityInterface2
+  at (wrapper managed-to-native) KinectWrapper:Init (bool,bool,bool)
+  at KinectManager.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1a790 -> priority: 1 
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/UnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/.\libUnityInterface2
+Fallback handler could not load library C:/Users/tadgm_000/Desktop/k/test_Data/Mono/libUnityInterface2
